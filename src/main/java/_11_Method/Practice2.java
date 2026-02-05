@@ -50,6 +50,9 @@ public class Practice2 {
     public static void main(String[] args) {
         //학생 성적관리
         printStudentInFo("김철수",85,90,70);
+        //main()
+        // -> printStudentInfo()
+        // -> calcTotal(),calcAverage(),getGrade()
 
     }
 }
