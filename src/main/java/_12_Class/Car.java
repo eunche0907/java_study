@@ -10,6 +10,8 @@ public class Car {
     boolean isEnginOn;
 
     //기본생성자
+    public Car() {}
+
     public Car(String brand,String model,int year,int speed,boolean isEnginOn){
         this.brand = brand;
         this.model = model;
