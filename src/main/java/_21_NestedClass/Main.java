@@ -47,13 +47,13 @@ public class Main {
                 .ip("112121212")
                 .deviceName("df")
                 .build();
-
-        LombokClient lc = LombokClient.builder()
+/*
+        LombokClient lc = LombokClient.build()
                 .ip("192.168.1.1")
                 .name("박화목의 휴대폰")
                 .deviceName("aa")
                 .build();
 
-
+            */
     }
 }
