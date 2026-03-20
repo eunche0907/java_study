@@ -9,11 +9,11 @@ public class IfStudy {
         }
        */
         if(true) {
-            System.out.println("저는 항상 실행되요");
+            System.out.println("저는 항상 실행");
 
         }
         if(false){
-            System.out.println("저는 절대 실행 안되요");
+            System.out.println("저는 절대 실행 X");
         }
         int height = 160;
         int age = 23;
@@ -26,7 +26,7 @@ public class IfStudy {
         }
         String sample = "Study java";
         if(sample.contains("java")){
-            System.out.println("자바공부중이군요");
+            System.out.println("자바공부중");
         }
 
         //if ~ else if ~ else
